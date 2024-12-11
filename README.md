@@ -1,4 +1,4 @@
-# Different Searching Methods
+# Different Searching Methods used in HPCC System, for the project [Legal Made Simple](https://github.com/Skanda-P-R/Legal-Made-Simple)
 This Folder contains the different methods used for searching the relevant case statements from the keywords provided. We have used different approaches, and the ```Indexed Searching``` takes the shortest time in providing the result.<br><br>
 All the methods give the same output for a given set of keywords.
 ## Base Dataset for Searching
